@@ -1,0 +1,21 @@
+{
+  "Schema": 1,
+  "Plugins": [
+    {
+      "Id": "file-search",
+      "Name": "文件搜索",
+      "Version": "1.0.0",
+      "Description": "在所选文件夹中按名称搜索，停用时取消搜索。",
+      "Package": "https://raw.githubusercontent.com/zrqworkmail-cloud/conan-desktop-plugins/main/packages/file-search-1.0.0.conanplugin",
+      "Sha256": "06b2d9a3e1a17735bde21c716027e5e821598c886489a3d4d099c7ffd8a4709c"
+    },
+    {
+      "Id": "system-monitor",
+      "Name": "系统监控",
+      "Version": "1.0.0",
+      "Description": "CPU、GPU、温度、磁盘、内存和网速采集。停用后停止该包的采集，不修改任务栏配色。",
+      "Package": "https://raw.githubusercontent.com/zrqworkmail-cloud/conan-desktop-plugins/main/packages/system-monitor-1.0.0.conanplugin",
+      "Sha256": "785cfef6e927e8b6228e98bad7d9d0b0d398d572599e2f2f0cd10324c5b92b15"
+    }
+  ]
+}
