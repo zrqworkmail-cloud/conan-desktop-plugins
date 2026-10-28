@@ -16,6 +16,14 @@
       "Description": "CPU、GPU、温度、磁盘、内存和网速采集。停用后停止该包的采集，不修改任务栏配色。",
       "Package": "https://raw.githubusercontent.com/zrqworkmail-cloud/conan-desktop-plugins/main/packages/system-monitor-1.0.0.conanplugin",
       "Sha256": "785cfef6e927e8b6228e98bad7d9d0b0d398d572599e2f2f0cd10324c5b92b15"
+    },
+    {
+      "Id": "text-tools",
+      "Name": "文本处理",
+      "Version": "1.0.0",
+      "Description": "文本清理、逐行去重、大小写转换与 JSON 格式化。 需要支持文本插件的新版本桌宠。",
+      "Package": "https://raw.githubusercontent.com/zrqworkmail-cloud/conan-desktop-plugins/main/packages/text-tools-1.0.0.conanplugin",
+      "Sha256": "b45d8d3eb806c8dddc3e1433a60fe07587edc16c34ceff8dc11070571da7afdb"
     }
   ]
 }
